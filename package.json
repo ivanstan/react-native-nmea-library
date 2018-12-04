@@ -1,7 +1,7 @@
 {
   "name": "react-native-nmea-library",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Native modul for accessing NMEA data on Android devices.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
   ],
   "author": "Ivan Stanojevic",
   "license": "MIT",
+  "repository": "https://github.com/ivanstan/react-native-nmea-library",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
