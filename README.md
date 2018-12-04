@@ -4,7 +4,7 @@
 If by any chance you need a an ability to access NMEA data on Android 
 devices from React Native you can use NMEA library.
 
-* Support Android only.
+* Supports Android only.
 
 ## Getting started
 
