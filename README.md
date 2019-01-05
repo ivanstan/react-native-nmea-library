@@ -61,7 +61,7 @@ componentWillUnmount() {
 We recommend https://github.com/infusion/GPS.js for parsing NMEA sentances, and getting
 satellite info.
 
-##Notice
+## Notice
 NMEA data is not available on emulators, you will have to use Android device
 for testing and development.
 
