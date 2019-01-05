@@ -34,6 +34,7 @@ devices from React Native you can use NMEA library.
 ## Usage
 ```javascript
 import RNNmeaLibrary from 'react-native-nmea-library';
+import {DeviceEventEmitter} from 'react-native';
 
 ...
 
@@ -57,5 +58,12 @@ componentWillUnmount() {
 }
 ```
 
+We recommend https://github.com/infusion/GPS.js for parsing NMEA sentances, and getting
+satellite info.
+
+##Notice
+NMEA data is not available on emulators, you will have to use Android device
+for testing and development.
+
 ## Credits
- Special thanks to kaznovac@gmail.com
+ * Java Support: kaznovac@gmail.com
