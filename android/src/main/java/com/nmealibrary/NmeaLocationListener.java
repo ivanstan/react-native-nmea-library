@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.nmealibrary;
 
 import android.location.Location;
 import android.location.LocationListener;
